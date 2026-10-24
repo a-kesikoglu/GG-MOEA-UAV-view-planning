@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/raw/*.tif
+results/raw_runs/
+results/figures/
+results/latex/
+results/logs/
+*.tmp.npz

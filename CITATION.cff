@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "GG-MOEA: evolutionary view planning for UAV photogrammetry"
+authors:
+  - family-names: "Kesikoğlu"
+    given-names: "Abdüsselam"
+    orcid: "https://orcid.org/0000-0003-4976-0791"
+    affiliation: "Kayseri University"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Evolutionary view planning for UAV photogrammetry with geometric guidance and multiple objectives"
+  authors:
+    - family-names: "Kesikoğlu"
+      given-names: "Abdüsselam"
+      orcid: "https://orcid.org/0000-0003-4976-0791"
+  journal: "Swarm and Evolutionary Computation"
+  status: submitted
