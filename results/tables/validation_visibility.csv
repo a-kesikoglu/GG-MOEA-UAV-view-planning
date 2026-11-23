@@ -1,0 +1,17 @@
+dsm,segments,n,visible,agree,traversal_only_visible,brute_only_visible
+synthetic blocks,random,50000,21601,50000,0,0
+synthetic blocks,axis,50000,33362,50000,0,0
+synthetic blocks,diagonal,50000,31575,49290,710,0
+synthetic blocks,vertical,50000,50000,50000,0,0
+synthetic cliff,random,50000,23286,50000,0,0
+synthetic cliff,axis,50000,29639,50000,0,0
+synthetic cliff,diagonal,50000,28592,49397,603,0
+synthetic cliff,vertical,50000,50000,50000,0,0
+synthetic noise,random,50000,6647,50000,0,0
+synthetic noise,axis,50000,11683,50000,0,0
+synthetic noise,diagonal,50000,7275,49034,966,0
+synthetic noise,vertical,50000,50000,50000,0,0
+scene urban,targets,40000,15783,40000,0,0
+scene cliff,targets,40000,12072,40000,0,0
+scene dam,targets,40000,13821,40000,0,0
+scene gorge,targets,40000,14832,40000,0,0

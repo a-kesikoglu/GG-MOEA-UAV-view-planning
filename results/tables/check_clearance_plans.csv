@@ -1,0 +1,85 @@
+instance,plan,cv,cv_closed
+T1,Grid-Nadir,0.0,0.0
+T1,Grid-Oblique,0.0,0.0
+T1,Greedy-2S,0.0,0.0
+T1,CMOPSO (C),0.0,0.0
+T1,CMOPSO (Q),0.0,0.0
+T1,GG-MOEA (C),0.0,0.0
+T1,GG-MOEA (Q),0.0,0.0
+T1,Grid-Nadir-m,0.0,0.0
+T1,Grid-Oblique-m,0.0,0.0
+T1,Grid-Oblique-i,0.0,0.0
+T2,Grid-Nadir,0.0,0.0
+T2,Grid-Oblique,0.0,0.0
+T2,Greedy-2S,51.89864787777176,51.89864787777175
+T2,"Greedy-2S, lifted",0.0,0.0
+T2,CMOPSO (C),0.0,0.0
+T2,CMOPSO (Q),0.0,0.0
+T2,GG-MOEA (C),0.0,0.0
+T2,GG-MOEA (Q),0.0,0.0
+T2,Grid-Nadir-m,0.0,0.0
+T2,Grid-Oblique-m,0.0,0.0
+T2,Grid-Oblique-i,0.0,0.0
+T3,Grid-Nadir,0.0,0.0
+T3,Grid-Oblique,0.0,0.0
+T3,Greedy-2S,0.0,0.0
+T3,MOEA/D (C),0.0,0.0
+T3,MOEA/D (Q),0.0,0.0
+T3,GG-MOEA (C),0.0,0.0
+T3,GG-MOEA (Q),0.0,0.0
+T3,Grid-Nadir-m,0.0,0.0
+T3,Grid-Oblique-m,0.0,0.14518955675669076
+T3,Grid-Oblique-i,0.0,0.0
+T4,Grid-Nadir,0.0,0.0
+T4,Grid-Oblique,0.0,0.0
+T4,Greedy-2S,26.998759135169294,26.998759135169294
+T4,"Greedy-2S, lifted",0.0,0.0
+T4,MOEA/D (Q),0.0,0.0
+T4,GG-MOEA (C),0.0,0.0
+T4,GG-MOEA (Q),0.0,0.0
+T4,Grid-Nadir-m,0.0,0.0
+T4,Grid-Oblique-m,0.0,0.5224505509387427
+T4,Grid-Oblique-i,0.0,0.0
+T5,Grid-Nadir,0.0,0.0
+T5,Grid-Oblique,0.0,0.0
+T5,Greedy-2S,74.2765737514657,74.27657375146569
+T5,"Greedy-2S, lifted",0.0,0.0
+T5,MOEA/D (C),0.0,0.0
+T5,MOEA/D (Q),0.0,0.0
+T5,GG-MOEA (C),0.0,0.0
+T5,GG-MOEA (Q),0.0,0.0
+T5,Grid-Nadir-m,0.0,0.0
+T5,Grid-Oblique-m,0.0,0.0
+T5,Grid-Oblique-i,0.0,0.0
+T6,Grid-Nadir,0.0,0.0
+T6,Grid-Oblique,0.0,0.0
+T6,Greedy-2S,199.63496839857157,199.63496839857157
+T6,"Greedy-2S, lifted",0.0,0.0
+T6,MOEA/D (Q),0.0,0.0
+T6,GG-MOEA (C),0.0,0.0
+T6,GG-MOEA (Q),0.0,0.0
+T6,Grid-Nadir-m,0.0,0.0
+T6,Grid-Oblique-m,0.0,0.0
+T6,Grid-Oblique-i,0.0,0.0
+T7,Grid-Nadir,0.0,0.0
+T7,Grid-Oblique,0.0,0.0
+T7,Greedy-2S,0.007985874389120795,0.007985874389106584
+T7,"Greedy-2S, lifted",0.0,0.0
+T7,AGE-MOEA-II (C),0.0,0.0
+T7,AGE-MOEA-II (Q),0.0,0.0
+T7,GG-MOEA (C),0.0,0.0
+T7,GG-MOEA (Q),0.0,0.0
+T7,Grid-Nadir-m,0.0,0.0
+T7,Grid-Oblique-m,0.0,0.0
+T7,Grid-Oblique-i,0.0,0.0
+T8,Grid-Nadir,0.0,0.0
+T8,Grid-Oblique,0.0,0.0
+T8,Greedy-2S,32.74229941476182,32.74229941476179
+T8,"Greedy-2S, lifted",0.0,0.0
+T8,AGE-MOEA-II (C),0.0,0.0
+T8,AGE-MOEA-II (Q),0.0,0.0
+T8,GG-MOEA (C),0.0,0.0
+T8,GG-MOEA (Q),0.0,0.0
+T8,Grid-Nadir-m,0.0,0.0
+T8,Grid-Oblique-m,0.0,0.0
+T8,Grid-Oblique-i,0.0,0.0
